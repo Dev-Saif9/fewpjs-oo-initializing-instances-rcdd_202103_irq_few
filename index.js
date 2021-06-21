@@ -1,4 +1,3 @@
-// Write your code here
 class Breakfast {
   constructor(food, drink) {
     this.food = food
@@ -22,4 +21,3 @@ class Dinner {
     this._dessert = dessert
   }
 }
-© 2021 GitHub, Inc.
